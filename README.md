@@ -3,7 +3,7 @@
 1. install dependencies
 
 ```shell
-cd aiwallpaper
+cd nextjs-wallpaper-main
 pnpm install
 ```
 
